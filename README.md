@@ -4,8 +4,8 @@ Clarity is a modern and responsive landing page for a digital solutions company.
 
 ## 🌐 Live Demo
 
-https://your-live-demo-link.com
-
+[https://your-live-demo-link.com
+](https://noranayman9.github.io/Clarity---Digital-Solutions-Platform/)
 ## 📸 Preview
 
 _Add a screenshot of the project here._
