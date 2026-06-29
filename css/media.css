@@ -1,0 +1,53 @@
+@media screen and (min-width: 576px) {
+  nav .dropdown-menu{
+
+    max-height: 60vh; 
+        overflow: auto; 
+        
+  }
+  
+}
+@media screen and (min-width: 768px) {
+  
+  .home .image-wrapper .image-border-bg {
+    max-width: 80%;
+    margin: 2.5rem auto;
+    border-radius: 3.125rem;
+  }
+
+  .home .image-wrapper .floating-icon {
+    width: 6.25rem;
+    height: 6.25rem;
+    font-size: 1.625rem;
+    border-radius: .9375rem;
+  }
+
+  .home .image-wrapper .floating-icon.icon-top {
+    
+     top: 5%;
+    right: 3.125rem;
+  }
+
+  .home .image-wrapper .floating-icon.icon-bottom {
+    bottom: 5%;
+    left: 3.125rem;
+  }
+  .testimonial .carousel{
+    width: 75% !important;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .FAQ .accordion {
+    width: 75%;
+  }
+  .my-nav .nav-link.active::after{
+    width: 100%;
+  }
+ nav .dropdown-menu{
+  max-height: none;
+  overflow: visible;
+ }
+
+}
+
